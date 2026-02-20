@@ -1,12 +1,12 @@
-#🍽️ Bella Vista Restaurant Website
-📌 Project Overview
+*🍽️ Bella Vista Restaurant Website*
+*📌 Project Overview*
 
 Bella Vista Restaurant is a responsive restaurant website built using HTML and CSS.
 The website presents a modern and elegant design showcasing the restaurant’s brand, menu, and contact information.
 
 This project focuses on clean UI design, proper layout structure, and responsive styling to ensure a smooth user experience across different devices.
 
-#🚀 Features
+*🚀 Features*
 
 Responsive design (Mobile-friendly)
 
