@@ -64,7 +64,7 @@ body {
 
 .hero {
     height: 100vh;
-    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('images/bella.jpg') no-repeat center center/cover;  
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('images/Bella.jpg') no-repeat center center/cover;  
     margin-top: 80px;
     display: flex;
     justify-content: center;
@@ -359,6 +359,7 @@ body {
     background-color: var(--primary-color);
     color:rgb(120, 117, 117);
 }
+
 
 
 
