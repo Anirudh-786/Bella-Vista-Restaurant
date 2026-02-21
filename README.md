@@ -57,7 +57,7 @@ Enhanced front-end development skills
 
 # 🌐 Live Demo
 
-(You can add GitHub Pages link here after deployment)
+https://anirudh-786.github.io/Bella-Vista-Restaurant/
 
 # 👤 Author
 
